@@ -1,5 +1,5 @@
 # Info
-This is a repository that contains Natural Language Processing algorithms in PyTorch and Tensorflow. Algorithms are divided into three main topics: metrics, basic models, and applications, as shown below.
+This is a repository that contains Natural Language Processing algorithms in PyTorch. Algorithms are divided into three main topics: metrics, basic models, and applications, as shown below.
 
 # How To Use
 Each topic has its own Jupyter Notebook.
